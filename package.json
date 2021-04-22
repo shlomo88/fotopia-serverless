@@ -22,7 +22,7 @@
     "test"
   ],
   "dependencies": {
-    "@types/sharp": "^0.22.2",
+    "@types/sharp": "^0.27.3",
     "amazon-cognito-identity-js": "^3.2.0",
     "babel-runtime": "^6.26.0",
     "bunyan": "^1.8.12",
